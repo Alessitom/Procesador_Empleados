@@ -1,0 +1,24 @@
+Empleado: E123
+---------------------
+Nombre: John
+Apellidos: Doe
+Fecha Trabajada: 22/05/2023 | Horas Trabajadas: 9.0
+Fecha Trabajada: 21/05/2023 | Horas Trabajadas: 8.5
+Horas Totales Trabajadas: 17.5
+
+Empleado: E124
+---------------------
+Nombre: Jane
+Apellidos: Smith
+Fecha Trabajada: 23/05/2023 | Horas Trabajadas: 6.5
+Fecha Trabajada: 21/05/2023 | Horas Trabajadas: 7.0
+Horas Totales Trabajadas: 13.5
+
+Empleado: E125
+---------------------
+Nombre: Mary
+Apellidos: Johnson
+Fecha Trabajada: 23/05/2023 | Horas Trabajadas: 7.5
+Fecha Trabajada: 22/05/2023 | Horas Trabajadas: 8.0
+Horas Totales Trabajadas: 15.5
+
